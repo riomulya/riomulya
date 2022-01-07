@@ -11,8 +11,8 @@ I love learn new thing in programming such as Javascript, Dart, Python.
 ### Stats:
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
+ <summary><strong>What i am learning</strong></summary>
+    - 🌱 I’m currently learning Javascript and its framework such as react or vue </br>
     - 👯 I’m looking to collaborate Project. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
