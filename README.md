@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Rio!
 
-I love learn new thing in programming such as Javascript, Dart, Python.
+I love learn new thing in programming such as Javascript, Dart, Python, C++.
 
 ### Tools:
 
